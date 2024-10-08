@@ -1,0 +1,39 @@
+.navbar-links {display: inline;}
+
+.navbar-links a{
+    margin-left: 20px 
+}
+
+#navbar a{ 
+    color: #990000;
+    text-decoration: none;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px
+}
+
+.navbar-links a{
+    margin-left: 50px;
+}
+
+#navbar title {
+    font-size: 50 em;
+}
+
+body {
+    color: #FFF;
+    text-align: center;
+    font-family: "Luckiest Guy";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+body {
+background: url ('IMG_1054.jpg') no repeat;
+}
